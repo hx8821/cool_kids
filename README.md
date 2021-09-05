@@ -14,3 +14,4 @@ All RSS3 users ✌️
 |Usagi|[0xDA048BED40d40B1EBd9239Cdf56ca0c2F018ae65](https://rss3scan.io/address/0xDA048BED40d40B1EBd9239Cdf56ca0c2F018ae65)| --   |
 |CatMan| [0xFDeeeBD34B9B1667bAE00373C4cb3d1488303EB4](https://rss3scan.io/address/0xFDeeeBD34B9B1667bAE00373C4cb3d1488303EB4)| --   |
 |lasyrabbit|[0x13e1ED9aec15Bf75AD081fB5E5466701F4E9bF4B](https://rss3scan.io/address/0xFDeeeBD34B9B1667bAE00373C4cb3d1488303EB4)| --   |
+|Joshua|[0x0fefeD77Bb715E96f1c35c1a4E0D349563d6f6c0](https://rss3scan.io/address/0x0fefeD77Bb715E96f1c35c1a4E0D349563d6f6c0)| --   |
