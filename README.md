@@ -4,7 +4,7 @@
 
 > Who can join this list?
 
-All RSS3 users were well-qualified.
+All RSS3 users ✌️
 
 ## Lists
 
