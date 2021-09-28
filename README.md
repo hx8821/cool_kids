@@ -17,3 +17,4 @@ All RSS3 users ✌️
 |Joshua|[0x0fefeD77Bb715E96f1c35c1a4E0D349563d6f6c0](https://rss3scan.io/address/0x0fefeD77Bb715E96f1c35c1a4E0D349563d6f6c0)| --   |
 |Nya Candy|[0xD3E8ce4841ed658Ec8dcb99B7a74beFC377253EA](https://rss3scan.io/address/0xD3E8ce4841ed658Ec8dcb99B7a74beFC377253EA) | Nya~ |
 |Atlasoin|[0xee8fEeb6D0c2fC02Ef41879514A75d0E791b5061](https://rss3scan.io/address/0xee8fEeb6D0c2fC02Ef41879514A75d0E791b5061)| interplanetary shark researcher |
+|DIYgod|[0x706D961Ab69d54a0FCbaa13E77842279A5724139](https://rss3scan.io/address/0x706D961Ab69d54a0FCbaa13E77842279A5724139)| --   |
